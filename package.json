@@ -1,6 +1,7 @@
 {
-  "name": "todo-web",
+  "name": "wanted-pre-onboarding-challenge-fe-2",
   "version": "0.1.0",
+  "description": "원티드 2023 2월 프리온보딩 챌린지 사전 과제",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -40,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
   }
 }
